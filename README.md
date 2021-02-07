@@ -1,1 +1,4 @@
-# CS1400Winter2021
+# CS1400 Winter 2021
+
+This repository contains all the assignments and projects I completed for CS1400 during
+winter semester 2021.
