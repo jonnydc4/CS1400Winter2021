@@ -1,0 +1,11 @@
+Party	Name	Starting Year	Starting Month	Ending Year	Ending Month
+Democrat	John F. Kennedy	1961	1	1963	11
+Democrat	Lydon B. Johnson	1963	11	1969	1
+Republican	Richard Nixon	1969	1	1974	8
+Republican	Gerald Ford	1974	8	1977	1
+Democrat	Jimmy Carter	1977	1	1981	1
+Republican	Ronald Reagan	1981	1	1989	1
+Republican	George H. W. Bush	1989	1	1993	1
+Democrat	Bill Clinton	1993	1	2001	1
+Republican	George W. Bush	2001	1	2009	1
+Democrat	Barrack Obama	2009	1	2012	1
